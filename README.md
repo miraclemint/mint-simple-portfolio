@@ -13,9 +13,9 @@ Welcome to the personal portfolio website of **Mint Tharin**, a One Person Busin
 
 ## Project Structure
 - `docs/index.html`: Main structure of the site.
-- `docs/assets/css/style.css`: Theming and layout styles.
-- `docs/assets/js/main.js`: Interactivity logic (theme toggle).
-- `docs/assets/images/`: Project thumbnails and images.
+- `docs/style.css`: Theming and layout styles.
+- `docs/main.js`: Interactivity logic (theme toggle).
+- `docs/images/`: Project thumbnails and images.
 
 ## Live Demo
 Check out the live version at [https://miraclemint.github.io/mint-simple-portfolio/](https://miraclemint.github.io/mint-simple-portfolio/) (Ensure you have enabled GitHub Pages in the repository settings).
